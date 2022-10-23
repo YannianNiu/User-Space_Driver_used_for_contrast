@@ -1,7 +1,5 @@
 # User-Space Driver used for contrast
-This is user-space driver forwarding test with fixed assembling size, for comparison with the repository "User-Space_Driver_with_Adaptive_Algorithm".
-
-A typical IoT scenario where the data traffic in even seconds is half of that in odd seconds is designed to prove the efficiency of the adaptive assembling size algorithm.
+This is user-space driver forwarding test with fixed assembling size, for comparison with the repository "User-Space_Driver_with_Adaptive_Algorithm". A typical IoT scenario where the data traffic in even seconds is half of that in odd seconds is designed.
 
 One of the corresponding papers "Throughput-Efficient Communication Device Driver for IoT Gateways" has been accepted by 2022 IEEE International Conference on Systems, Man, and Cybernetics(SMC). The other one of the papers "Assembler: A Throughput-Efficient Module for Network Driver of Edge Computing Gateways" has been accepted by the 23rd Asia-Pacific Network Operations and Management Symposium (APNOMS). However, both of them are not yet searchable on Xplore, please wait for a moment.
 
